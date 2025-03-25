@@ -51,10 +51,10 @@ General creation:
 - `show <id>` - Restores visibility of hidden figure
 
 ### Notes:
-- <file>: Path to SVG file
-- <id>: Figure identifier
-- <stroke>: Outline color
-- <fill>: Fill color
+- `<file>`: Path to SVG file
+- `<id>`: Figure identifier
+- `<stroke>`: Outline color
+- `<fill>`: Fill color
 - All coordinates and dimensions are in pixels
 - Angles are specified in degrees
-- For polygons: <countPoints> specifies vertex count, followed by <x> <y> pairs
+- For polygons: `<countPoints>` specifies vertex count, followed by <x> <y> pairs
